@@ -1,0 +1,2 @@
+# Routing
+In this lab, you'll hone your technical skills by building a routing application. You'll also practice the more qualitative skills of evaluation and critique by assessing different Leaflet plugin options and evaluating the mobile friendliness of a particular API. This lab uses the Leaflet mapping platform and a routing plugin, with additional functionality that is built on the Mapbox Directions API and Mapbox Geocoding API.
