@@ -16,8 +16,9 @@ var control = L.Routing.control({
   // waypoints: [L.latLng(47.246587, -122.43883), L.latLng(47.318017, -122.54297)],
   routeWhileDragging: true,
   units: "imperial",
-  collapsible: true,
   expand: "touch",
+  show: false,
+  collapsible: "true",
   router: L.Routing.mapbox(
     "pk.eyJ1IjoiZ2VudGVuIiwiYSI6ImNrMmdzOHFsdTA2Z2UzY252b3B1cjJqdXQifQ.B2doXxjSELmQIf7wIIDBZg"
   ),
